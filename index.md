@@ -1,1 +1,1 @@
-とりあえず、このブログは工事中です。
+Under construction.
