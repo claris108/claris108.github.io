@@ -15,6 +15,11 @@ twitter_username: "springborne_"
 #youtube_username: username
 #googleplus_username: +username
 
+header_pages:
+  - about.html
+  - test.md
+  - archive.html
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
