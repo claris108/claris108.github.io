@@ -1,1 +1,1 @@
-Under construction.
+A place for thoughts.
