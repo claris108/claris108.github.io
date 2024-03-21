@@ -12,8 +12,6 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 ## Subheading 2
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-![alttext](https://i.imgur.com/3HXvJxh.jpg)
-
 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
 ---
